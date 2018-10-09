@@ -4,7 +4,7 @@
 有研究发现女性比男性更关心社会发展，世界上每增加一位会编程的女性，等于增加了一位关心社会议题、积极推动世界进步，并且具备解决实际问题能力的变革推动者。
 
 ## 活动介绍
-今年11月4日，CodingGirlsClub将在各大高校同步举办女性编程日校园行（Girls Coding Day in College）。
+今年11月4日，Coding Girls Club将在各大高校同步举办女性编程日校园行（Girls Coding Day in College）。
 
 ### 什么是女性编程日校园行（Girls Coding Day in College）
 女性编程日校园行（Girls Coding Day in College）是由社会企业Coding Girls Club联合众多性别友好的公司和程序员在国内高校举办的公益编程工作坊。
